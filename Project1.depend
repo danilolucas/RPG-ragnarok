@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1393023516 source:d:\development\rpg c++\rpg\main.cpp
+	<allegro.h>
+	<stdio.h>
+	<math.h>
+
